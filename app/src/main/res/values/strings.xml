@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">FitnessApp</string>
+    <string name="home_page_image">Home page image</string>
+    <string name="create_routines">Create_routines</string>
+    <string name="my_routines">My Routines</string>
+    <string name="pre_made_routines">Pre-Made Routines</string>
+</resources>
